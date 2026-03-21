@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Dre
 
 **React Native iOS Engineer • Full-Stack Builder • AI Product Developer**  
-**Based in Bangkok • 11-Year U.S Air Force Veteran • Freelance Engineer on Upwork**
+**Based in Bangkok • Freelance Engineer on Upwork**
 
 ---
 
